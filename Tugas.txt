@@ -2,3 +2,4 @@ Daftar Tugas Harian:
 - [ ] Bangun pagi
 - [ ] Olahraga
 - [ ] Cek email kerja
+- [ ] Review laporan mingguan
